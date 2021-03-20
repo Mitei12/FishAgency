@@ -1,0 +1,5 @@
+C:\Users\Master\Downloads\FishAgency-main\FishAgency-main\FishAgency\obj\Debug\FishAgency.csprojAssemblyReference.cache
+C:\Users\Master\Downloads\FishAgency-main\FishAgency-main\FishAgency\obj\Debug\FishAgency.Properties.Resources.resources
+C:\Users\Master\Downloads\FishAgency-main\FishAgency-main\FishAgency\obj\Debug\FishAgency.View.FishAgencyInterface.resources
+C:\Users\Master\Downloads\FishAgency-main\FishAgency-main\FishAgency\obj\Debug\FishAgency.csproj.GenerateResource.cache
+C:\Users\Master\Downloads\FishAgency-main\FishAgency-main\FishAgency\obj\Debug\FishAgency.csproj.CoreCompileInputs.cache
